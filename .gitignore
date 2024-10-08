@@ -1,4 +1,4 @@
 *.csv
-*.ipynb*
 *.xls
 *.zip
+*-checkpoint.ipynb
